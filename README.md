@@ -16,3 +16,6 @@ Dos enfoques de análisis temporal:
 Secuencias largas (2s) → estimación continua.
 
 Secuencias cortas (0.3s) → estimación rápida post-perturbación.
+
+Referencia al paper base:
+Poudyal, A., Fourney, R., Tonkoski, R., Hansen, T. M., Tamrakar, U., & Trevizan, R. D. (2020). Convolutional Neural Network-based Inertia Estimation using Local Frequency Measurements. In 2020 52nd North American Power Symposium (NAPS). IEEE. https://doi.org/10.1109/NAPS50074.2020.9336399 
